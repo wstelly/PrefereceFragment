@@ -2,7 +2,7 @@
 
 # CheckBoxPreference
 
-![CheckBoxPreference](https://github.com/wstelly/PrefereceFragment/blob/master/FragmentPreference2.png)
+![CheckBoxPreference](https://github.com/wstelly/PrefereceFragment/blob/master/FragmentPreference02.png)
 
 # EditTextPreference
 
